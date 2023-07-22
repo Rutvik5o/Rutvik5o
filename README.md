@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rutvik Prajapati</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center"> 👨‍💻 A Back-end Developer</h3>
 
 <img align="center" alt="backcover" src="https://github.com/Rutvik5o/Rutvik5o/blob/main/Github%20Cover%20Page.jpg">
 
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **OOP in Python & C++**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/rutvik50](www.linkedin.com/in/rutvik50)
+- 👨‍💻 All of my projects are available (www.linkedin.com/in/rutvik50)
 
 - ⚡ Fun fact **I am Beginner 👨‍💻**
 
