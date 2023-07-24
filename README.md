@@ -1,6 +1,6 @@
 ![logo](https://github.com/Rutvik5o/Rutvik5o/blob/main/Github%20Cover%20Page.jpg)
-<h1 align="center">Hi 👋, I'm Rutvik Prajapati</h1>
-<h3 align="center"> 👨‍💻 A Back-end Developer</h3>
+<h1 align="center">Hey Git's ,I'm Rutvik Prajapati</h1>
+<h3 align="center"> 👨‍💻 A Computer Science Student</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
