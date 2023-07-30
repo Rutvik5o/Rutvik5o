@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **OOP in Python & C++**
 
-- 👨‍💻 All of my projects are available (www.linkedin.com/in/rutvik50)
+- 👨‍💻 All of my projects are available (https://github.com/Rutvik5o/Project)
 
 - ⚡ Fun fact **I am Beginner 👨‍💻**
 
