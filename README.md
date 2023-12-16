@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/ozarutvik50" target="blank"><img src="https://img.shields.io/twitter/follow/ozarutvik50?logo=twitter&style=for-the-badge" alt="ozarutvik50" /></a> </p>
 
-- 🌱 I’m currently learning **OOP in Python & C++**
+- 🌱 I’m currently learning **OOP in Python & Java**
 
 - 👨‍💻 All of my projects are available (https://github.com/Rutvik5o/Project)
 
