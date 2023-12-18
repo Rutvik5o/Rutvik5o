@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **OOPS in Java & Turtle 🐢 Graphics**
 
-- 👨‍💻 All of my projects are available → (https://rb.gy/q5y6ce)
+- 👨‍💻 All of my projects are available → (https://t.ly/7IO2m)
 
 - **"Enthusiastic 👨‍💻 coder on a journey of growth. Embracing challenges with a beginner's mindset. Striving to contribute meaningfully to tech 💻."**
 
