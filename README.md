@@ -12,11 +12,13 @@
 
 <p align="left"> <a href="https://twitter.com/ozarutvik50" target="blank"><img src="https://img.shields.io/twitter/follow/ozarutvik50?logo=twitter&style=for-the-badge" alt="ozarutvik50" /></a> </p>
 
-- 🌱 I’m currently learning **OOPS in Python & Java**
+- 🌱 I’m currently learning **OOPS in Java & Turtle 🐢 Graphics**
 
-- 👨‍💻 All of my projects are available (https://github.com/Rutvik5o/Project)
+- 👨‍💻 All of my projects are available → (https://rb.gy/q5y6ce)
 
-- ⚡ Fun fact **I am Beginner 👨‍💻**
+- **"Enthusiastic 👨‍💻 coder on a journey of growth. Embracing challenges with a beginner's mindset. Striving to contribute meaningfully to tech 💻."**
+
+- **⚡ #CodingJourney**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
