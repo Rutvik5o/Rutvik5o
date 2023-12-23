@@ -1,4 +1,4 @@
-![logo](https://github.com/Rutvik5o/Rutvik5o/blob/main/Github%20Cover%20Page.jpg)
+![logo](https://github.com/Rutvik5o/Rutvik5o/blob/main/GithubCoverPage.jpg)
 <h1 align="center">Hey Git's ,I'm Rutvik Prajapati</h1>
 <h3 align="center"> 👨‍💻 A Computer Science Student</h3>
 
