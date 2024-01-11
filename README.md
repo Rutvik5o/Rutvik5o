@@ -9,7 +9,9 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rutvik.50) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rutvik50) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ozarutvik50) <br>
+<a href="https://twitter.com/ozarutvik50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ozarutvik50" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rutvik50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutvik50" height="30" width="40" /></a>
+<a href="https://instagram.com/rutvik.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rutvik50" height="30" width="40" /></a>
 
 [![](https://visitcount.itsvg.in/api?id=rutvik5o&icon=8&color=0)](https://visitcount.itsvg.in)
 
