@@ -22,7 +22,7 @@
 
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920">
   
-## 🔧Other Technologies:
+## <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="30">  Other Technologies:
 
 <div align="center">
   <a href="https://github.com/rutvik5o" target="_blank">
