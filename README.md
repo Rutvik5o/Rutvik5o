@@ -26,13 +26,13 @@
 
 [<img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/b624aa73bd766cb5f90aa8dfd2d9d9e23441ed98/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">](https://github.com/rutvik5o)
 [<img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/4dd8b019a5142886a29872cc9eb9f51be70ea06b/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">](https://github.com/rutvik5o)
-[<img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/4dd8b019a5142886a29872cc9eb9f51be70ea06b/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">](https://github.com/rutvik5o)
+[<img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/7c1100cf8362f061c9fe8ade02d0cc3089727459/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif" width="100">](https://github.com/rutvik5o)
 [<img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/4dd8b019a5142886a29872cc9eb9f51be70ea06b/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">](https://github.com/rutvik5o)
 [<img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/4dd8b019a5142886a29872cc9eb9f51be70ea06b/238200431-3c16d4f2-b757-4c70-8f42-43d5dddd2c36.gif" width="100">](https://github.com/rutvik5o)
 [<img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/4dd8b019a5142886a29872cc9eb9f51be70ea06b/238200433-3fb2cdf6-8920-462e-87a4-95af376418aa.gif" width="100">](https://github.com/rutvik5o)
 [<img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/4dd8b019a5142886a29872cc9eb9f51be70ea06b/238200437-de038172-e903-4951-926c-755878deb0b4.gif" width="100">](https://github.com/rutvik5o)
-<!--[<img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/6d43561a771d15099cc5d7c7c96b802058e384c8/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="100">](https://github.com/rutvik5o) -->
-[<img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/7c1100cf8362f061c9fe8ade02d0cc3089727459/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif" width="100">](https://github.com/rutvik5o)
+[<img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/6d43561a771d15099cc5d7c7c96b802058e384c8/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="100">](https://github.com/rutvik5o) 
+
 
 
 
