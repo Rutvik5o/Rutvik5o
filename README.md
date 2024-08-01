@@ -27,7 +27,7 @@
 <div align="center">
   <a href="https://github.com/rutvik5o" target="_blank">
     <img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/b624aa73bd766cb5f90aa8dfd2d9d9e23441ed98/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/4dd8b019a5142886a29872cc9eb9f51be70ea06b/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
+
     
     
     
