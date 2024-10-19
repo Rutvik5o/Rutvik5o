@@ -8,6 +8,9 @@
 🌱 I’m currently learning OOPS in Java & Turtle 🐢 Graphics<br><br>👨‍💻 All of my projects are available → (https://t.ly/7IO2m)<br><br>"Enthusiastic 👨‍💻 coder on a journey of growth. Embracing challenges with a beginner's mindset. Striving to contribute meaningfully to tech 💻."<br><br>⚡ #CodingJourney
 
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1920" />
+
+
 
 
 ## 🌐 Socials:
