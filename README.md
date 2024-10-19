@@ -3,7 +3,7 @@
 <h3 align="center"> 👨‍💻 A Computer Science Student </h3>
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 💫 About Me:<br><br>
 🌱 I’m currently learning OOPS in Java & Turtle 🐢 Graphics<br><br>👨‍💻 All of my projects are available → (https://t.ly/7IO2m)<br><br>"Enthusiastic 👨‍💻 coder on a journey of growth. Embracing challenges with a beginner's mindset. Striving to contribute meaningfully to tech 💻."<br><br>⚡ #CodingJourney
 
