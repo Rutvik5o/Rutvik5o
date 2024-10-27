@@ -55,9 +55,21 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rutvik5o&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rutvik5o&theme=ambient_gradient&hide_border=false)
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvik5o&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutvik5o&theme=midnight-purple&hide_border=false" height="150" alt="streak graph" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=rutvik5o&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvik5o&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
+</div>
+
+
+
+
+<!--## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rutvik5o&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvik5o&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutvik5o&theme=midnight-purple&hide_border=false" height="150" alt="streak graph" />
+</div> -->
 
 
 
