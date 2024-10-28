@@ -58,10 +58,11 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutvik5o&theme=midnight-purple&hide_border=false" height="150" alt="streak graph" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rutvik5o&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvik5o&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rutvik5o&theme=merko&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" style="margin-right: 10px;" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rutvik5o&theme=merko&hide_border=false" height="150" alt="streak graph" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutvik5o&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
 </div>
+
 
 
 
