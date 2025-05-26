@@ -1,30 +1,35 @@
-![logo](https://github.com/Rutvik5o/Rutvik5o/blob/main/GithubCoverPage.jpg)
+![logo](https://raw.githubusercontent.com/Rutvik5o/Rutvik5o/main/DataScientist.png)
+
 <h1 align="center">✮ Rutvik Prajapati | Tech Enthusiast 🌐 </h1>
 <h3 align="center">Aspiring Data Scientist | AI/ML Explorer | Pythonic Thinker 🧠
  </h3>
 <br>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-💡 About Me
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/>
+    </td>
+    <td>
 
-🎓 I’m a curious mind diving deep into Data Science, AI, and Machine Learning  
-📊 I analyze data, train models, and seek patterns in the chaos  
-🛠️ Currently mastering **OOP in Java** and building intuitive **Turtle Graphics** 🐢  
-🧠 I believe in: "From Data to Decisions | From Code to Intelligence"  
-🌐 All my projects are here → [Project Showcase](https://t.ly/7IO2m)  
+      🔬 Focused Domains
+
+      - 📈 Data Analytics with Pandas, NumPy, Seaborn  
+      - 🧠 Machine Learning with scikit-learn & TensorFlow  
+      - 🗣️ Natural Language Processing  
+      - 🔍 Data Visualization & Dashboarding  
+      - 🌍 Deploying ML Models on Web with Django & Flask  
+
+    
+  </tr>
+</table>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🔬 Focused Domains
 
-- 📈 Data Analytics with Pandas, NumPy, Seaborn  
-- 🧠 Machine Learning with scikit-learn & TensorFlow  
-- 🗣️ Natural Language Processing  
-- 🔍 Data Visualization & Dashboarding  
-- 🌍 Deploying ML Models on Web with Django & Flask  
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 
