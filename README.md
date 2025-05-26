@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/Rutvik5o/Rutvik5o/main/DataScientist.png)
+![logo](https://raw.githubusercontent.com/Rutvik5o/Rutvik5o/main/DS.png)
 
 <h1 align="center">✮ Rutvik Prajapati | Tech Enthusiast 🌐 </h1>
 <h3 align="center">Aspiring Data Scientist | AI/ML Explorer | Pythonic Thinker 🧠
