@@ -14,7 +14,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rutvik.50) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rutvik50) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rutvik50) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Rutvik-Prajapati-64) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@OzaRutvik50) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rutvik50) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rutvik50) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Rutvik-Prajapati-64) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@OzaRutvik50) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutvik5o&label=Website%20Traffic&color=127800&style=flat" alt="rutvik5o" /> </p>
 
