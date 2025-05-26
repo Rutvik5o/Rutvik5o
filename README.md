@@ -1,14 +1,31 @@
 ![logo](https://github.com/Rutvik5o/Rutvik5o/blob/main/GithubCoverPage.jpg)
 <h1 align="center">✮ Rutvik Prajapati | Tech Enthusiast 🌐 </h1>
-<h3 align="center"> 🧠 From Code to Intelligence </h3>
-
+<h3 align="center">Aspiring Data Scientist | AI/ML Explorer | Pythonic Thinker 🧠
+ </h3>
+<br>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-💫 About Me:<br><br>
-🌱 I’m currently learning OOPS in Java & Turtle 🐢 Graphics<br><br>👨‍💻 All of my projects are available → (https://t.ly/7IO2m)<br><br>"Enthusiastic 👨‍💻 coder on a journey of growth. Embracing challenges with a beginner's mindset. Striving to contribute meaningfully to tech 💻."<br><br>⚡ #CodingJourney
+💡 **About Me**
+
+🎓 I’m a curious mind diving deep into Data Science, AI, and Machine Learning  
+📊 I analyze data, train models, and seek patterns in the chaos  
+🛠️ Currently mastering **OOP in Java** and building intuitive **Turtle Graphics** 🐢  
+🧠 I believe in: "From Data to Decisions | From Code to Intelligence"  
+🌐 All my projects are here → [Project Showcase](https://t.ly/7IO2m)  
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 🔬 Focused Domains
+
+- 📈 Data Analytics with Pandas, NumPy, Seaborn  
+- 🧠 Machine Learning with scikit-learn & TensorFlow  
+- 🗣️ Natural Language Processing  
+- 🔍 Data Visualization & Dashboarding  
+- 🌍 Deploying ML Models on Web with Django & Flask  
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 
