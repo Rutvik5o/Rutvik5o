@@ -1,6 +1,6 @@
 ![logo](https://github.com/Rutvik5o/Rutvik5o/blob/main/GithubCoverPage.jpg)
 <h1 align="center">✮ Rutvik Prajapati | Tech Enthusiast 🌐 </h1>
-<h3 align="center"> 👨‍💻 A Computer Science Student </h3>
+<h3 align="center"> 🧠 From Code to Intelligence </h3>
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
