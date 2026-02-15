@@ -141,8 +141,22 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"  />
 
 
-
-
+<table align="center">
+  <tr>
+    <td align="center">
+      "There are so many thoughts going through my brain"
+      <br><br>
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/31edfb91-6645-4b85-b273-b5280b342e0b" width="350" alt="Brain thoughts GIF">
+    </td>
+    <td align="center">
+       Octocats<br>
+      <br>
+      <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="350" alt="Octocat NUX">
+      <br><br>
+      
+    
+  </tr>
+</table>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
