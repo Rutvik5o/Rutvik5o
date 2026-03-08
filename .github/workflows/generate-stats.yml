@@ -9,7 +9,7 @@ on:
 
 jobs:
   # ═══════════════════════════════════════════════════════════════
-  #  ALL METRICS IN ONE JOB — commits directly to dist branch
+  #  ALL METRICS IN ONE JOB
   # ═══════════════════════════════════════════════════════════════
   generate-metrics:
     name: Generate All Metrics
@@ -26,29 +26,18 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Rutvik5o
-
-          # Output — commit directly to dist branch
           filename: metrics-full.svg
           output_action: commit
           committer_branch: dist
           committer_message: "chore: update metrics-full"
-
-          # Classic template — clean, colorful, well-designed
           template: classic
           config_timezone: Asia/Kolkata
           config_padding: 6%, 10%
           config_display: large
           config_animations: yes
-          config_order: base.header, base.activity, base.community, base.repositories, isocalendar, habits, languages
-
-          # Base sections
           base: header, activity, community, repositories
-
-          # Isocalendar — full year heatmap (works reliably)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-          # Habits & coding patterns
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
@@ -56,45 +45,33 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_trim: yes
 
-          # Languages
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 20
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-          plugin_languages_threshold: 0%
-
-      # ── CARD 2: Languages Detailed ───────────────────────────
+      # ── CARD 2: Languages — NO indepth (fixes hash error) ────
       - name: 📊 Language Breakdown
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Rutvik5o
-
           filename: metrics-languages.svg
           output_action: commit
           committer_branch: dist
           committer_message: "chore: update metrics-languages"
-
           template: classic
           config_timezone: Asia/Kolkata
           config_padding: 6%, 10%
           config_display: large
           config_animations: yes
           base: ""
-
+          # ⚠️ indepth: NO — this was causing the hash mismatch error
+          # it tries to git clone all repos which fails/times out
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 20
+          plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 10
-          plugin_languages_recent_load: 500
           plugin_languages_sections: most-used, recently-used
-          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_details: bytes-size, percentage
           plugin_languages_threshold: 0%
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: no
 
       # ── CARD 3: Achievements ─────────────────────────────────
       - name: 🏆 Achievements
@@ -102,42 +79,36 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Rutvik5o
-
           filename: metrics-achievements.svg
           output_action: commit
           committer_branch: dist
           committer_message: "chore: update metrics-achievements"
-
           template: classic
           config_timezone: Asia/Kolkata
           config_padding: 6%, 10%
           config_animations: yes
           base: ""
-
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_limit: 0
 
-      # ── CARD 4: ISO Calendar standalone ─────────────────────
+      # ── CARD 4: Full Year Heatmap ────────────────────────────
       - name: 📅 Full Year Calendar
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Rutvik5o
-
           filename: metrics-calendar.svg
           output_action: commit
           committer_branch: dist
           committer_message: "chore: update metrics-calendar"
-
           template: classic
           config_timezone: Asia/Kolkata
           config_padding: 6%, 10%
           config_display: large
           config_animations: yes
           base: ""
-
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
