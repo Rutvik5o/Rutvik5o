@@ -255,23 +255,23 @@ if __name__ == "__main__":
 
 ## 📊 Mission Control — Stats Dashboard
 
-<!-- ── CARD 1: Full profile (terminal theme — green on black, looks elite) ── -->
+<!-- ── ROW 1: Streak card — compact, centered ── -->
+<img src="https://streak-stats.demolab.com?user=Rutvik5o&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=00ffe7&fire=ff6e00&currStreakLabel=00ffe7&sideLabels=7fffed&dates=7fffed&border_radius=10&date_format=j%20M%5B%20Y%5D" height="175" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- ── ROW 2: Full profile metrics (classic template — colorful, clean) ── -->
 <img src="https://raw.githubusercontent.com/Rutvik5o/Rutvik5o/dist/metrics-full.svg" width="97%" alt="Full GitHub Metrics"/>
 
-<br/><br/>
+<br/>
 
-<!-- ── CARD 2: Languages (detailed · indepth · both sections) ── -->
+<!-- ── ROW 3: Detailed language breakdown ── -->
 <img src="https://raw.githubusercontent.com/Rutvik5o/Rutvik5o/dist/metrics-languages.svg" width="97%" alt="Language Stats"/>
 
-<br/><br/>
+<br/>
 
-<!-- ── CARD 3: Activity Calendar heatmap ── -->
-<img src="https://raw.githubusercontent.com/Rutvik5o/Rutvik5o/dist/metrics-calendar.svg" width="97%" alt="Activity Calendar"/>
-
-<br/><br/>
-
-<!-- ── STREAK — demolab (most reliable, always loads) ── -->
-<img src="https://streak-stats.demolab.com?user=Rutvik5o&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=00ffe7&fire=ff6e00&currStreakLabel=00ffe7&sideLabels=7fffed&dates=7fffed&border_radius=10&date_format=j%20M%5B%20Y%5D&stroke=00ffe730" height="195" alt="GitHub Streak"/>
+<!-- ── ROW 4: Full-year isocalendar heatmap ── -->
+<img src="https://raw.githubusercontent.com/Rutvik5o/Rutvik5o/dist/metrics-calendar.svg" width="97%" alt="Full Year Calendar"/>
 
 </div>
 
@@ -285,7 +285,7 @@ if __name__ == "__main__":
 
 ## 🏆 Hall of Achievements
 
-<!-- ── CARD 4: Achievements (terminal theme · all unlocked · detailed) ── -->
+<!-- Classic template achievements — colorful badges, always shows all unlocked ones -->
 <img src="https://raw.githubusercontent.com/Rutvik5o/Rutvik5o/dist/metrics-achievements.svg" width="97%" alt="Achievements"/>
 
 </div>
