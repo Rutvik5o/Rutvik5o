@@ -122,7 +122,7 @@ class RutvikPrajapati:
     # ── Identity ────────────────────────────────────────────────────────
     name:      Final[str] = "Rutvik Prajapati"
     role:      Final[str] = "AI Engineer · ML Architect · Data Scientist"
-    institute: Final[str] = "AIDTM — Ahmedabad Institute of Digital Technology Management"
+    institute: Final[str] = "AIDTM — Adani Institute of Digital Technology Management"
     location:  Final[str] = "Ahmedabad, India 🇮🇳"
 
     # ── Arsenal ─────────────────────────────────────────────────────────
@@ -253,10 +253,10 @@ if __name__ == "__main__":
 
 ## 📊 Mission Control — Stats Dashboard
 
-<!-- ── ROW 1: Two side-by-side cards ── -->
-<img src="https://github-readme-stats.vercel.app/api?username=Rutvik5o&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=00ffe7&icon_color=00ffe7&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=percentile&cache_seconds=14400&border_radius=10" height="180"/>
+<!-- ── ROW 1: Stats + Langs via github-profile-summary-cards (no rate limit) ── -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rutvik5o&theme=github_dark" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutvik5o&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=00ffe7&text_color=c9d1d9&langs_count=8&cache_seconds=14400&border_radius=10" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rutvik5o&theme=github_dark" height="180"/>
 
 <br/><br/>
 
@@ -280,11 +280,11 @@ if __name__ == "__main__":
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rutvik5o&theme=github_dark" height="165"/>
-&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rutvik5o&theme=github_dark" height="165"/>
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rutvik5o&theme=github_dark&utcOffset=5.5" height="165"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rutvik5o&theme=github_dark" height="165"/>
 
 </div>
 
@@ -298,8 +298,11 @@ if __name__ == "__main__":
 
 ## 🏆 Hall of Achievements
 
-<!-- Trophy API — simple, no token needed, always works -->
-<img src="https://github-profile-trophy.vercel.app/?username=rutvik5o&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" width="97%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rutvik5o&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=4" width="97%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rutvik5o&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=4&rank=B,C" width="97%"/>
 
 </div>
 
