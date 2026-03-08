@@ -1,0 +1,339 @@
+<svg width="900" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .grid-line { stroke: #0a2a4a; stroke-width: 0.5; opacity: 0.5; }
+
+      /* Pulse rings from center */
+      .ring { fill: none; stroke-width: 1; opacity: 0; }
+      .ring1 { stroke: #00ffe7; animation: pulse 3.5s ease-out infinite 0s; }
+      .ring2 { stroke: #00ffe7; animation: pulse 3.5s ease-out infinite 1.2s; }
+      .ring3 { stroke: #ff6e00; animation: pulse 3.5s ease-out infinite 2.4s; }
+      @keyframes pulse {
+        0%   { r: 0;   opacity: 0.9; }
+        100% { r: 160; opacity: 0; }
+      }
+
+      /* Neural nodes */
+      .node-c { fill: #00ffe7; }
+      .node-o { fill: #ff6e00; }
+      .node-d { fill: #0044ff; }
+      .nb1 { animation: nb 2.2s ease-in-out infinite alternate 0s; }
+      .nb2 { animation: nb 1.8s ease-in-out infinite alternate 0.4s; }
+      .nb3 { animation: nb 2.6s ease-in-out infinite alternate 0.8s; }
+      .nb4 { animation: nb 2.0s ease-in-out infinite alternate 1.2s; }
+      @keyframes nb { 0%{opacity:0.2; r:2} 100%{opacity:1; r:5} }
+
+      /* Edges */
+      .edge-c { stroke: #00ffe740; stroke-width: 0.8; fill: none;
+        stroke-dasharray: 300; stroke-dashoffset: 300;
+        animation: drawE 2.5s ease forwards; }
+      .edge-o { stroke: #ff6e0030; stroke-width: 0.6; fill: none;
+        stroke-dasharray: 300; stroke-dashoffset: 300;
+        animation: drawE 3s ease 0.6s forwards; }
+      @keyframes drawE { to { stroke-dashoffset: 0; } }
+
+      /* Data packets moving along edges */
+      .packet { fill: #00ffe7; r: 2.5; opacity: 0; }
+      .p1 { animation: moveP1 3s ease-in-out infinite 0.5s; }
+      .p2 { animation: moveP2 3s ease-in-out infinite 1.5s; }
+      .p3 { animation: moveP3 3.5s ease-in-out infinite 0.8s; }
+      @keyframes moveP1 {
+        0%   { opacity:0; }
+        5%   { opacity:1; }
+        95%  { opacity:1; }
+        100% { opacity:0; }
+      }
+      @keyframes moveP2 {
+        0%   { opacity:0; }
+        5%   { opacity:1; }
+        95%  { opacity:1; }
+        100% { opacity:0; }
+      }
+      @keyframes moveP3 {
+        0%   { opacity:0; }
+        5%   { opacity:0.8; }
+        95%  { opacity:0.8; }
+        100% { opacity:0; }
+      }
+
+      /* Scan line */
+      .scan { stroke: #00ffe710; stroke-width: 3; fill: none;
+        animation: scanY 5s linear infinite; }
+      @keyframes scanY {
+        0%   { transform: translateY(-10px); opacity:0; }
+        10%  { opacity:1; }
+        90%  { opacity:1; }
+        100% { transform: translateY(310px); opacity:0; }
+      }
+
+      /* Corner brackets */
+      .corner { stroke: #00ffe7; stroke-width: 2; fill: none;
+        opacity: 0; animation: fadeIn 1s ease 0.1s forwards; }
+
+      /* Main title */
+      .title {
+        font-family: 'Orbitron','Courier New',monospace;
+        font-size: 54px; font-weight: 900;
+        fill: url(#grad1);
+        filter: url(#glowBlue);
+        opacity: 0;
+        animation: slideUp 1s ease 0.2s forwards;
+      }
+      .name-bracket {
+        font-family: 'Orbitron','Courier New',monospace;
+        font-size: 54px; font-weight: 900;
+        fill: url(#gradOrange);
+        filter: url(#glowOrange);
+        opacity: 0;
+        animation: slideUp 1s ease 0.1s forwards;
+      }
+      .subtitle {
+        font-family: 'Courier New',monospace;
+        font-size: 13.5px; font-weight: bold;
+        fill: #7fffed; letter-spacing: 5px;
+        opacity: 0;
+        animation: slideUp 1s ease 0.6s forwards;
+      }
+      .tagline {
+        font-family: 'Courier New',monospace;
+        font-size: 10.5px;
+        fill: #00ffe780; letter-spacing: 2.5px;
+        opacity: 0;
+        animation: fadeIn 1.2s ease 1.2s forwards;
+      }
+      .status-txt {
+        font-family: 'Courier New',monospace;
+        font-size: 9px; fill: #00ffe755;
+        letter-spacing: 1.5px;
+        opacity: 0;
+        animation: fadeIn 1s ease 1.8s forwards;
+      }
+      .cursor {
+        fill: #00ffe7;
+        animation: blink 1s step-end infinite;
+      }
+      @keyframes blink   { 0%,100%{opacity:1} 50%{opacity:0} }
+      @keyframes slideUp {
+        0%   { opacity:0; transform: translateY(16px); }
+        100% { opacity:1; transform: translateY(0); }
+      }
+      @keyframes fadeIn  { to { opacity:1; } }
+
+      /* Divider bar */
+      .divider { opacity:0; animation: fadeIn 1s ease 1s forwards; }
+
+      /* Particles */
+      .pt { fill:#00ffe7; animation: ptf 5s ease-in-out infinite; }
+      .pt:nth-child(1) { animation-delay:0s; animation-duration:4s; }
+      .pt:nth-child(2) { animation-delay:1s; animation-duration:6s; }
+      .pt:nth-child(3) { animation-delay:2s; animation-duration:5s; }
+      .pt:nth-child(4) { animation-delay:0.5s; animation-duration:4.5s; }
+      .pt:nth-child(5) { animation-delay:1.5s; animation-duration:5.5s; }
+      @keyframes ptf {
+        0%,100% { opacity:0.2; transform:translateY(0) scale(1); }
+        50%     { opacity:1;   transform:translateY(-10px) scale(2); }
+      }
+
+      /* Hex grid overlay (right side) */
+      .hex { stroke:#00ffe715; stroke-width:0.5; fill:none; }
+    </style>
+
+    <!-- Gradients -->
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00ffe7"/>
+      <stop offset="55%"  stop-color="#00c8ff"/>
+      <stop offset="100%" stop-color="#0088ff"/>
+    </linearGradient>
+    <linearGradient id="gradOrange" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#ff9500"/>
+      <stop offset="100%" stop-color="#ff6e00"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#000000"/>
+      <stop offset="30%"  stop-color="#030012"/>
+      <stop offset="70%"  stop-color="#000d1a"/>
+      <stop offset="100%" stop-color="#010008"/>
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00ffe700"/>
+      <stop offset="30%"  stop-color="#00ffe7"/>
+      <stop offset="70%"  stop-color="#0088ff"/>
+      <stop offset="100%" stop-color="#0088ff00"/>
+    </linearGradient>
+
+    <!-- Glow filters -->
+    <filter id="glowBlue" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowOrange" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="nodeglow" x="-150%" y="-150%" width="400%" height="400%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- BG -->
+  <rect width="900" height="300" fill="url(#bgGrad)"/>
+
+  <!-- Hex grid right -->
+  <g opacity="0.4">
+    <polygon class="hex" points="800,20 820,30 820,50 800,60 780,50 780,30"/>
+    <polygon class="hex" points="840,20 860,30 860,50 840,60 820,50 820,30"/>
+    <polygon class="hex" points="820,60 840,70 840,90 820,100 800,90 800,70"/>
+    <polygon class="hex" points="860,60 880,70 880,90 860,100 840,90 840,70"/>
+    <polygon class="hex" points="800,100 820,110 820,130 800,140 780,130 780,110"/>
+    <polygon class="hex" points="840,100 860,110 860,130 840,140 820,130 820,110"/>
+    <polygon class="hex" points="820,140 840,150 840,170 820,180 800,170 800,150"/>
+  </g>
+
+  <!-- Grid lines -->
+  <g>
+    <line x1="0" y1="50"  x2="900" y2="50"  class="grid-line"/>
+    <line x1="0" y1="100" x2="900" y2="100" class="grid-line"/>
+    <line x1="0" y1="150" x2="900" y2="150" class="grid-line"/>
+    <line x1="0" y1="200" x2="900" y2="200" class="grid-line"/>
+    <line x1="0" y1="250" x2="900" y2="250" class="grid-line"/>
+    <line x1="80"  y1="0" x2="80"  y2="300" class="grid-line"/>
+    <line x1="160" y1="0" x2="160" y2="300" class="grid-line"/>
+    <line x1="740" y1="0" x2="740" y2="300" class="grid-line"/>
+    <line x1="820" y1="0" x2="820" y2="300" class="grid-line"/>
+  </g>
+
+  <!-- Scan line -->
+  <line x1="0" y1="0" x2="900" y2="0" class="scan"/>
+
+  <!-- ── LEFT NEURAL NET ── -->
+  <!-- Layer 1 -->
+  <circle cx="22" cy="80"  r="3" class="node-c nb1" filter="url(#nodeglow)"/>
+  <circle cx="22" cy="150" r="3" class="node-c nb2" filter="url(#nodeglow)"/>
+  <circle cx="22" cy="220" r="3" class="node-c nb3" filter="url(#nodeglow)"/>
+  <!-- Layer 2 -->
+  <circle cx="75" cy="55"  r="3" class="node-o nb2" filter="url(#nodeglow)"/>
+  <circle cx="75" cy="110" r="3" class="node-o nb3" filter="url(#nodeglow)"/>
+  <circle cx="75" cy="165" r="3" class="node-o nb4" filter="url(#nodeglow)"/>
+  <circle cx="75" cy="220" r="3" class="node-o nb1" filter="url(#nodeglow)"/>
+  <!-- Layer 3 -->
+  <circle cx="128" cy="80"  r="3" class="node-c nb3" filter="url(#nodeglow)"/>
+  <circle cx="128" cy="150" r="3" class="node-c nb1" filter="url(#nodeglow)"/>
+  <circle cx="128" cy="220" r="3" class="node-c nb4" filter="url(#nodeglow)"/>
+  <!-- Layer 4 (output) -->
+  <circle cx="175" cy="115" r="4" class="node-d nb2" filter="url(#nodeglow)"/>
+  <circle cx="175" cy="185" r="4" class="node-d nb3" filter="url(#nodeglow)"/>
+  <!-- Edges 1→2 -->
+  <line x1="22" y1="80"  x2="75" y2="55"  class="edge-c"/>
+  <line x1="22" y1="80"  x2="75" y2="110" class="edge-c"/>
+  <line x1="22" y1="150" x2="75" y2="110" class="edge-c"/>
+  <line x1="22" y1="150" x2="75" y2="165" class="edge-c"/>
+  <line x1="22" y1="220" x2="75" y2="165" class="edge-c"/>
+  <line x1="22" y1="220" x2="75" y2="220" class="edge-c"/>
+  <!-- Edges 2→3 -->
+  <line x1="75" y1="55"  x2="128" y2="80"  class="edge-o"/>
+  <line x1="75" y1="110" x2="128" y2="80"  class="edge-o"/>
+  <line x1="75" y1="110" x2="128" y2="150" class="edge-o"/>
+  <line x1="75" y1="165" x2="128" y2="150" class="edge-o"/>
+  <line x1="75" y1="165" x2="128" y2="220" class="edge-o"/>
+  <line x1="75" y1="220" x2="128" y2="220" class="edge-o"/>
+  <!-- Edges 3→4 -->
+  <line x1="128" y1="80"  x2="175" y2="115" class="edge-c"/>
+  <line x1="128" y1="150" x2="175" y2="115" class="edge-c"/>
+  <line x1="128" y1="150" x2="175" y2="185" class="edge-c"/>
+  <line x1="128" y1="220" x2="175" y2="185" class="edge-c"/>
+
+  <!-- ── RIGHT NEURAL NET (mirror) ── -->
+  <circle cx="878" cy="80"  r="3" class="node-c nb4" filter="url(#nodeglow)"/>
+  <circle cx="878" cy="150" r="3" class="node-c nb1" filter="url(#nodeglow)"/>
+  <circle cx="878" cy="220" r="3" class="node-c nb2" filter="url(#nodeglow)"/>
+  <circle cx="825" cy="55"  r="3" class="node-o nb3" filter="url(#nodeglow)"/>
+  <circle cx="825" cy="110" r="3" class="node-o nb4" filter="url(#nodeglow)"/>
+  <circle cx="825" cy="165" r="3" class="node-o nb1" filter="url(#nodeglow)"/>
+  <circle cx="825" cy="220" r="3" class="node-o nb2" filter="url(#nodeglow)"/>
+  <circle cx="772" cy="80"  r="3" class="node-c nb2" filter="url(#nodeglow)"/>
+  <circle cx="772" cy="150" r="3" class="node-c nb3" filter="url(#nodeglow)"/>
+  <circle cx="772" cy="220" r="3" class="node-c nb4" filter="url(#nodeglow)"/>
+  <circle cx="725" cy="115" r="4" class="node-d nb1" filter="url(#nodeglow)"/>
+  <circle cx="725" cy="185" r="4" class="node-d nb2" filter="url(#nodeglow)"/>
+  <line x1="878" y1="80"  x2="825" y2="55"  class="edge-c"/>
+  <line x1="878" y1="80"  x2="825" y2="110" class="edge-c"/>
+  <line x1="878" y1="150" x2="825" y2="110" class="edge-c"/>
+  <line x1="878" y1="150" x2="825" y2="165" class="edge-c"/>
+  <line x1="878" y1="220" x2="825" y2="165" class="edge-c"/>
+  <line x1="878" y1="220" x2="825" y2="220" class="edge-c"/>
+  <line x1="825" y1="55"  x2="772" y2="80"  class="edge-o"/>
+  <line x1="825" y1="110" x2="772" y2="80"  class="edge-o"/>
+  <line x1="825" y1="110" x2="772" y2="150" class="edge-o"/>
+  <line x1="825" y1="165" x2="772" y2="150" class="edge-o"/>
+  <line x1="825" y1="165" x2="772" y2="220" class="edge-o"/>
+  <line x1="825" y1="220" x2="772" y2="220" class="edge-o"/>
+  <line x1="772" y1="80"  x2="725" y2="115" class="edge-c"/>
+  <line x1="772" y1="150" x2="725" y2="115" class="edge-c"/>
+  <line x1="772" y1="150" x2="725" y2="185" class="edge-c"/>
+  <line x1="772" y1="220" x2="725" y2="185" class="edge-c"/>
+
+  <!-- Pulse rings (center) -->
+  <circle cx="450" cy="145" r="0" class="ring ring1"/>
+  <circle cx="450" cy="145" r="0" class="ring ring2"/>
+  <circle cx="450" cy="145" r="0" class="ring ring3"/>
+
+  <!-- Center glow blob -->
+  <circle cx="450" cy="145" r="80" fill="#00ffe7" opacity="0.025" filter="url(#softGlow)"/>
+
+  <!-- Corner brackets -->
+  <polyline points="10,35 10,10 35,10"   class="corner" stroke="#00ffe7"/>
+  <polyline points="865,10 890,10 890,35" class="corner" stroke="#ff6e00"/>
+  <polyline points="10,265 10,290 35,290"  class="corner" stroke="#ff6e00"/>
+  <polyline points="865,290 890,290 890,265" class="corner" stroke="#00ffe7"/>
+
+  <!-- Small decorative dots corners -->
+  <circle cx="10" cy="10" r="2" fill="#00ffe7" opacity="0.8"/>
+  <circle cx="890" cy="10" r="2" fill="#ff6e00" opacity="0.8"/>
+  <circle cx="10" cy="290" r="2" fill="#ff6e00" opacity="0.8"/>
+  <circle cx="890" cy="290" r="2" fill="#00ffe7" opacity="0.8"/>
+
+  <!-- Floating particles -->
+  <circle cx="280" cy="28"  r="1.5" class="pt"/>
+  <circle cx="450" cy="22"  r="1"   class="pt"/>
+  <circle cx="620" cy="28"  r="1.5" class="pt"/>
+  <circle cx="360" cy="275" r="1.2" class="pt"/>
+  <circle cx="540" cy="278" r="1"   class="pt"/>
+
+  <!-- ── MAIN TEXT ── -->
+  <g text-anchor="middle">
+    <!-- Top micro-tag -->
+    <text x="450" y="52" class="tagline">◈ AI ENGINEER  ·  DATA SCIENTIST  ·  ML ARCHITECT ◈</text>
+
+    <!-- Main name -->
+    <text x="450" y="118" class="title">RUTVIK PRAJAPATI</text>
+
+    <!-- Subtitle -->
+    <text x="450" y="152" class="subtitle">BUILDING  ·  INTELLIGENCE  ·  AT  SCALE</text>
+
+    <!-- Gradient divider line -->
+    <rect x="250" y="164" width="400" height="1.5" fill="url(#barGrad)" rx="1" class="divider"/>
+
+    <!-- Institution -->
+    <text x="450" y="186" class="tagline" style="letter-spacing:3px">
+      🎓 AIDTM  ·  Ahmedabad, India
+    </text>
+
+    <!-- Tech stack line -->
+    <text x="450" y="210" class="tagline" style="fill:#00c8ff80; letter-spacing:2px">
+      [ PYTHON · PYTORCH · TENSORFLOW · LANGCHAIN · TRANSFORMERS · FASTAPI ]
+    </text>
+
+    <!-- Status bar -->
+    <text x="360" y="250" class="status-txt">SYS:ONLINE</text>
+    <text x="420" y="250" class="status-txt"> ▸ STATUS:BUILDING_AI</text>
+    <text x="560" y="250" class="status-txt"> ▸ MODE:FULL_STACK_AI</text>
+
+    <!-- Blinking cursor -->
+    <rect x="486" y="237" width="7" height="12" rx="1" class="cursor" opacity="0.8"/>
+  </g>
+</svg>
