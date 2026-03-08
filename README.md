@@ -246,32 +246,30 @@ if __name__ == "__main__":
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--   GITHUB STATS — 4 CARDS via GitHub Actions (terminal theme)       -->
-<!--   All generated as static SVGs → stored in dist branch             -->
-<!--   Run generate-stats.yml workflow to populate these                -->
+<!--   GITHUB STATS — static SVGs via GitHub Actions → dist branch      -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
 ## 📊 Mission Control — Stats Dashboard
 
-<!-- ── ROW 1: Streak card — compact, centered ── -->
+<!-- ── Streak card (demolab — always works) ── -->
 <img src="https://streak-stats.demolab.com?user=Rutvik5o&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=00ffe7&fire=ff6e00&currStreakLabel=00ffe7&sideLabels=7fffed&dates=7fffed&border_radius=10&date_format=j%20M%5B%20Y%5D" height="175" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- ── ROW 2: Full profile metrics (classic template — colorful, clean) ── -->
+<!-- ── Full profile card (habits, isocalendar, activity, repos — all in one) ── -->
 <img src="https://raw.githubusercontent.com/Rutvik5o/Rutvik5o/dist/metrics-full.svg" width="97%" alt="Full GitHub Metrics"/>
 
 <br/>
 
-<!-- ── ROW 3: Detailed language breakdown ── -->
+<!-- ── Language breakdown ── -->
 <img src="https://raw.githubusercontent.com/Rutvik5o/Rutvik5o/dist/metrics-languages.svg" width="97%" alt="Language Stats"/>
 
 <br/>
 
-<!-- ── ROW 4: Full-year isocalendar heatmap ── -->
-<img src="https://raw.githubusercontent.com/Rutvik5o/Rutvik5o/dist/metrics-calendar.svg" width="97%" alt="Full Year Calendar"/>
+<!-- ── Full-year contribution heatmap ── -->
+<img src="https://raw.githubusercontent.com/Rutvik5o/Rutvik5o/dist/metrics-calendar.svg" width="97%" alt="Full Year Heatmap"/>
 
 </div>
 
@@ -285,7 +283,6 @@ if __name__ == "__main__":
 
 ## 🏆 Hall of Achievements
 
-<!-- Classic template achievements — colorful badges, always shows all unlocked ones -->
 <img src="https://raw.githubusercontent.com/Rutvik5o/Rutvik5o/dist/metrics-achievements.svg" width="97%" alt="Achievements"/>
 
 </div>
