@@ -1,162 +1,460 @@
-![logo](https://raw.githubusercontent.com/Rutvik5o/Rutvik5o/main/DS.png)
+<!-- ████████████████████████████████████████████████████████████████████ -->
+<!--        RUTVIK PRAJAPATI  ·  AI ENGINEER  ·  ULTIMATE PROFILE        -->
+<!--              Cyberpunk · Neural · Maximum Impact                     -->
+<!-- ████████████████████████████████████████████████████████████████████ -->
 
-<h1 align="center">✮ Rutvik Prajapati | Tech Enthusiast 🌐 </h1>
-<h3 align="center">📊 Data Science Enthusiast | AI/ML Explorer | Python Practitioner 🐍
- </h3>
-<br>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/>
-    </td>
-    <td>
-
-      🔬 Focused Domains
-
-      - 📈 Data Analytics with Pandas, NumPy, Seaborn  
-      - 🧠 Machine Learning with scikit-learn & TensorFlow  
-      - 🗣️ Natural Language Processing  
-      - 🔍 Data Visualization & Dashboarding  
-      - 🌍 Deploying ML Models on Web with Django & Flask  
-
-    
-  </tr>
-</table>
-
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920">
-
-
-
-
-
-
-
-
-<!--
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rutvik50) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rutvik50) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Rutvik-Prajapati-64) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@OzaRutvik50) 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutvik5o&label=Website%20Traffic&color=127800&style=flat" alt="rutvik5o" /> </p>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<img align="center" alt="banner" src="https://github.com/Rutvik5o/Rutvik5o/blob/main/banner.png">
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />-->
-
-<h3 align="left"> 💻 Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920">
-  
-## <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="30">  Other Technologies:
-
-[<img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/b624aa73bd766cb5f90aa8dfd2d9d9e23441ed98/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">](https://github.com/rutvik5o)
-[<img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/4dd8b019a5142886a29872cc9eb9f51be70ea06b/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">](https://github.com/rutvik5o)
-[<img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/7c1100cf8362f061c9fe8ade02d0cc3089727459/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif" width="100">](https://github.com/rutvik5o)
-[<img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/4dd8b019a5142886a29872cc9eb9f51be70ea06b/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">](https://github.com/rutvik5o)
-[<img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/4dd8b019a5142886a29872cc9eb9f51be70ea06b/238200431-3c16d4f2-b757-4c70-8f42-43d5dddd2c36.gif" width="100">](https://github.com/rutvik5o)
-[<img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/4dd8b019a5142886a29872cc9eb9f51be70ea06b/238200433-3fb2cdf6-8920-462e-87a4-95af376418aa.gif" width="100">](https://github.com/rutvik5o)
-[<img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/4dd8b019a5142886a29872cc9eb9f51be70ea06b/238200437-de038172-e903-4951-926c-755878deb0b4.gif" width="100">](https://github.com/rutvik5o)
-[<img src="https://raw.githubusercontent.com/Rutvik5o/Nockdown/6d43561a771d15099cc5d7c7c96b802058e384c8/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="100">](https://github.com/rutvik5o) 
-
-
-
-
-
-
-
-
-
-<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo" /><img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" /> -->
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920">
-
-
-
-
-
-## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rutvik5o&theme=merko&hide_border=false" height="150" alt="streak graph" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rutvik5o&theme=merko&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" style="margin-right: 10px;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutvik5o&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
+
+<!-- ╔══════════════════════════════╗ -->
+<!--  ░░  CINEMATIC HERO BANNER  ░░  -->
+<!-- ╚══════════════════════════════╝ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0a001a,50:000d1a,75:001a0d,100:000000&height=320&section=header&text=RUTVIK%20PRAJAPATI&fontSize=62&fontColor=00ffe7&animation=twinkling&fontAlignY=38&stroke=00ffe7&strokeWidth=2&desc=◈%20AI%20ENGINEER%20◈%20ML%20ARCHITECT%20◈%20NEURAL%20NETWORK%20BUILDER%20◈&descAlignY=58&descSize=16&descColor=7fffed&reversal=true" width="100%"/>
+
 </div>
 
+<!-- ╔══════════════════════╗ -->
+<!--  ░░  TYPING BANNER  ░░  -->
+<!-- ╚══════════════════════╝ -->
 
-
-
-
-<!--## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutvik5o&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvik5o&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutvik5o&theme=midnight-purple&hide_border=false" height="150" alt="streak graph" />
-</div> -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2800&pause=900&color=00FFE7&center=true&vCenter=true&width=750&height=70&lines=⚡+Architecting+Intelligent+Systems;🧠+Fine-tuning+LLMs+%26+Transformers;🔬+Deep+Learning+%7C+Computer+Vision+%7C+NLP;📡+RAG+Pipelines+%26+Vector+Databases;🚀+Deploying+AI+at+Production+Scale;🤖+Turning+Data+into+Intelligence)](https://git.io/typing-svg)
 
+</div>
 
+<!-- ╔══════════════╗ -->
+<!--  ░░  BADGES  ░░  -->
+<!-- ╚══════════════╝ -->
 
+<div align="center"><br/>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920">
+![](https://komarev.com/ghpvc/?username=rutvik5o&style=for-the-badge&color=00ffe7&labelColor=0a001a&label=👁%20PROFILE+VIEWS)
+![](https://img.shields.io/github/followers/rutvik5o?style=for-the-badge&logo=github&logoColor=00ffe7&labelColor=0a001a&color=00ffe7&label=⭐+FOLLOWERS)
+![](https://img.shields.io/github/stars/rutvik5o?style=for-the-badge&logo=github&logoColor=ff6e00&labelColor=0a001a&color=ff6e00&label=✨+STARS)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rutvik5o&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="720"/>
+<br/>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920">
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920">
+<!-- ╔═══════════════════════╗ -->
+<!--  ░░  ABOUT ME SECTION  ░░  -->
+<!-- ╚═══════════════════════╝ -->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rutvik5o&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360"/>
 
+### `⚡ > initialize_rutvik.py`
 
-<!--### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>-->
+```yaml
+╔══════════════════════════════════════════════╗
+║  IDENTITY:                                   ║
+║    name     → Rutvik Prajapati              ║
+║    role     → AI Engineer & ML Architect    ║
+║    origin   → India  🇮🇳                     ║
+║    status   → 🟢 Online · Building AI       ║
+╠══════════════════════════════════════════════╣
+║  CORE MODULES:                               ║
+║    ◈ Generative AI & LLM Fine-tuning        ║
+║    ◈ Transformer Architectures (BERT/GPT)   ║
+║    ◈ RAG Systems & Vector Databases         ║
+║    ◈ Computer Vision · YOLO · CNNs          ║
+║    ◈ NLP & Conversational AI                ║
+║    ◈ MLOps · Docker · FastAPI · Cloud       ║
+╠══════════════════════════════════════════════╣
+║  LOADING...                                  ║
+║    ⚡ LangChain    ████████░░  80%           ║
+║    ⚡ LLaMA 3      ███████░░░  70%           ║
+║    ⚡ AI Agents    ██████░░░░  60%           ║
+║    ⚡ Diffusion    █████░░░░░  50%           ║
+╚══════════════════════════════════════════════╝
+```
 
+<br clear="right"/>
 
+---
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- ╔══════════════════════════╗ -->
+<!--  ░░  PYTHON CLASS CARD  ░░  -->
+<!-- ╚══════════════════════════╝ -->
 
-<!--| ![Rutvik Prajapati   github stats](https://github-readme-stats.vercel.app/api?username=rutvik5o\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rutvik5o&theme=tokyonight&theme=icegray&border_radius=8) |
-| -- | -- |   -->
+```python
+#!/usr/bin/env python3
+# ╔══════════════════════════════════════════════════════════════════╗
+# ║   rutvik_prajapati.py  |  AI Engineer  ·  ML Architect  ·  🇮🇳   ║
+# ╚══════════════════════════════════════════════════════════════════╝
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920">
+from __future__ import annotations
+from dataclasses import dataclass, field
+from typing import Literal
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+@dataclass
+class RutvikPrajapati:
+    """⚡ AI Engineer who transforms data into intelligence."""
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920">
+    name:      str  = "Rutvik Prajapati"
+    role:      str  = "AI Engineer & ML Architect"
+    location:  str  = "India 🇮🇳"
+    pronouns:  str  = "He / Him"
 
-### 🌟 Contribution 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rutvik5o&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+    ai_stack: dict = field(default_factory=lambda: {
+        "🧠 Deep Learning" : ["PyTorch", "TensorFlow", "Keras", "JAX"],
+        "🤖 Generative AI" : ["LangChain", "LlamaIndex", "HuggingFace", "OpenAI"],
+        "📊 Data Science"  : ["Pandas", "NumPy", "Polars", "Spark"],
+        "👁️ Vision"        : ["OpenCV", "YOLO", "Detectron2", "CLIP"],
+        "🗣️ NLP"           : ["BERT", "Transformers", "spaCy", "NLTK"],
+        "🚀 MLOps"         : ["FastAPI", "Docker", "Airflow", "AWS", "GCP"],
+    })
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920">
+    currently_shipping: list[str] = field(default_factory=lambda: [
+        "🔥 Fine-tuning LLaMA-3 on domain-specific corpora",
+        "⚡ Production RAG pipeline with Pinecone + LangChain",
+        "🌐 Multi-modal AI web app with Django + TensorFlow Serving",
+        "🧬 Agentic AI systems with tool-use & memory",
+    ])
 
+    fun_facts: list[str] = field(default_factory=lambda: [
+        "I think in tensors and dream in gradients 📉",
+        "Coffee.exe → Code.py → Model.pkl → Profit.json ☕",
+        "My loss function converges faster than my deadlines 😅",
+    ])
 
-<table align="center">
-  <tr>
-    <td align="center">
-      "There are so many thoughts going through my brain"
-      <br><br>
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/31edfb91-6645-4b85-b273-b5280b342e0b" width="350" alt="Brain thoughts GIF">
-    </td>
-    <td align="center">
-       Octocats<br>
-      <br>
-      <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="350" alt="Octocat NUX">
-      <br><br>
-      
-    
-  </tr>
+    def philosophy(self) -> str:
+        return "Data is the new oil. AI is the refinery. 🛢️ → ⚡"
+
+    def __repr__(self) -> str:
+        return f"<AIEngineer name={self.name!r} status='Building the future 🚀'>"
+
+me = RutvikPrajapati()
+print(me.philosophy())
+# ► "Data is the new oil. AI is the refinery. 🛢️ → ⚡"
+```
+
+---
+
+<!-- ╔═══════════════════════╗ -->
+<!--  ░░  TECH ARSENAL  ░░    -->
+<!-- ╚═══════════════════════╝ -->
+
+<div align="center">
+
+## ⚡ Arsenal of Intelligence
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🔴 Core AI & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+### 🟢 Data Science & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD343)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🔵 Vision & Language
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+### 🟡 Cloud, Infra & Databases
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</td>
+</tr>
 </table>
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+### ⚙️ Full Tool Stack — Animated
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,docker,aws,gcp,django,mongodb,postgres,redis,git,linux,vscode,cpp,js,mysql,sqlite&perline=10&theme=dark" />
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════════════╗ -->
+<!--  ░░  GITHUB STATS — ALL WORKING  ░░    -->
+<!-- ╚══════════════════════════════════════╝ -->
+
+<div align="center">
+
+## 📊 Mission Control — GitHub Stats
+
+<!-- Row 1: Stats + Top Langs -->
+<img src="https://github-readme-stats.vercel.app/api?username=Rutvik5o&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=00ffe7&icon_color=00ffe7&text_color=c9d1d9&include_all_commits=true&count_private=true&border_radius=10&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile" height="185"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutvik5o&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=00ffe7&text_color=c9d1d9&langs_count=10&border_radius=10&hide=html,css" height="185"/>
+
+<br/><br/>
+
+<!-- Row 2: Streak stats — using demolab (working) -->
+<img src="https://streak-stats.demolab.com?user=Rutvik5o&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=00ffe7&fire=ff6e00&currStreakLabel=00ffe7&sideLabels=7fffed&dates=7fffed&stroke=00ffe730&border_radius=10" height="185"/>
+
+<br/><br/>
+
+<!-- Row 3: Summary Cards (GitHub Actions based — reliable) -->
+<!-- These cards are generated via the vn7n24fzkq action, replace username: -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rutvik5o&theme=github_dark" width="96%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rutvik5o&theme=github_dark" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rutvik5o&theme=github_dark" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rutvik5o&theme=github_dark&utcOffset=5.5" height="160"/>
+
+</div>
+
+---
+
+<!-- ╔═══════════════════╗ -->
+<!--  ░░  TROPHIES  ░░    -->
+<!-- ╚═══════════════════╝ -->
+
+<div align="center">
+
+## 🏆 Hall of Achievements
+
+<!-- Using alternate volunteer-hosted endpoint for load balancing -->
+<img src="https://github-profile-trophy.vercel.app/?username=rutvik5o&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=10&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience" width="96%"/>
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════╗ -->
+<!--  ░░  SKILL MATRIX  ░░      -->
+<!-- ╚══════════════════════════╝ -->
+
+<div align="center">
+
+## 🎯 Neural Skill Matrix
+
+```
+ DOMAIN               ████ PROFICIENCY                          LEVEL
+ ─────────────────────────────────────────────────────────────────────
+ 🧠 Deep Learning      ████████████████████████░░░░   92%    EXPERT
+ 📊 Data Science       ████████████████████████░░░░   90%    EXPERT
+ 🤖 Generative AI      ████████████████████░░░░░░░░   85%    ADVANCED
+ 🗣️ NLP                ███████████████████░░░░░░░░░   82%    ADVANCED
+ 👁️ Computer Vision    ████████████████░░░░░░░░░░░░   75%    SKILLED
+ 🚀 MLOps & Deploy     ██████████████░░░░░░░░░░░░░░   70%    SKILLED
+ 🌐 Web Deployment     ████████████░░░░░░░░░░░░░░░░   65%    GROWING
+ ⚡ AI Agents          ██████████░░░░░░░░░░░░░░░░░░   55%    LOADING
+```
+
+</div>
+
+---
+
+<!-- ╔═══════════════════════════╗ -->
+<!--  ░░  ACTIVITY GRAPH  ░░     -->
+<!-- ╚═══════════════════════════╝ -->
+
+<div align="center">
+
+## 🌊 Contribution Pulse
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rutvik5o&bg_color=0d0d0d&color=00ffe7&line=00ffe7&point=ff6e00&area=true&area_color=00ffe715&hide_border=true&radius=8&custom_title=Rutvik's%20Neural%20Activity%20Graph" width="96%"/>
+
+</div>
+
+---
+
+<!-- ╔════════════════════╗ -->
+<!--  ░░  SNAKE  ░░        -->
+<!-- ╚════════════════════╝ -->
+
+<div align="center">
+
+## 🐍 Consuming Knowledge · Every Single Day
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" width="96%"/>
+</picture>
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════╗ -->
+<!--  ░░  AI PROJECTS SHOWCASE  ░░   -->
+<!-- ╚══════════════════════════════╝ -->
+
+<div align="center">
+
+## 🔥 Currently Shipping
+
+| Project | Stack | Status |
+|:--------|:------|:------:|
+| 🤖 **LLM Fine-tuner** | LLaMA3 · LoRA · HuggingFace · PEFT | 🔥 Active |
+| 📡 **RAG Pipeline** | LangChain · Pinecone · FastAPI · OpenAI | ⚡ In Progress |
+| 👁️ **Vision AI App** | YOLO · OpenCV · Django · TF Serving | 🟡 Beta |
+| 🗣️ **NLP Dashboard** | BERT · Streamlit · Pandas · Seaborn | ✅ Shipped |
+| 🌐 **ML API Platform** | FastAPI · Docker · AWS · PostgreSQL | 🌱 Planning |
+
+</div>
+
+---
+
+<!-- ╔═══════════════════════════════╗ -->
+<!--  ░░  NEURAL NETWORK ASCII  ░░   -->
+<!-- ╚═══════════════════════════════╝ -->
+
+<div align="center">
+
+## 🧬 System Architecture
+
+```
+                    ┌─────────────────────────────────────────────┐
+                    │         RUTVIK'S INTELLIGENCE ENGINE         │
+                    └─────────────────────────────────────────────┘
+                                        │
+              ┌─────────────────────────┼──────────────────────────┐
+              ▼                         ▼                          ▼
+        ┌──────────┐             ┌──────────┐              ┌──────────┐
+        │  INPUT   │             │  INPUT   │              │  INPUT   │
+        │   DATA   │             │   TEXT   │              │  IMAGE   │
+        └────┬─────┘             └────┬─────┘              └────┬─────┘
+             │                        │                          │
+             ▼                        ▼                          ▼
+        ┌──────────┐             ┌──────────┐              ┌──────────┐
+        │ Feature  │             │Tokenizer │              │   CNN    │
+        │   Eng.   │             │  + BERT  │              │  Layer   │
+        └────┬─────┘             └────┬─────┘              └────┬─────┘
+             │                        │                          │
+             └────────────────────────┼──────────────────────────┘
+                                      ▼
+                              ┌───────────────┐
+                              │  TRANSFORMER  │
+                              │  ATTENTION    │◄─── Fine-tuned
+                              │   LAYERS      │     with LoRA
+                              └───────┬───────┘
+                                      │
+                    ┌─────────────────┼─────────────────┐
+                    ▼                 ▼                  ▼
+             ┌────────────┐   ┌────────────┐   ┌────────────┐
+             │ PREDICTION │   │ GENERATION │   │EMBEDDINGS  │
+             │  (Class.)  │   │  (Gen. AI) │   │(Retrieval) │
+             └────────────┘   └────────────┘   └────────────┘
+                                      │
+                                      ▼
+                            ┌──────────────────┐
+                            │  FASTAPI + DOCKER │
+                            │   ─────────────   │
+                            │   PRODUCTION 🚀   │
+                            └──────────────────┘
+
+    INPUT ──► [NEURAL NET] ──► INTELLIGENCE ──► IMPACT
+        loss ◄── backprop ◄── gradient ◄── optimizer
+```
+
+</div>
+
+---
+
+<!-- ╔════════════════════════╗ -->
+<!--  ░░  RANDOM QUOTE  ░░    -->
+<!-- ╚════════════════════════╝ -->
+
+<div align="center">
+
+## 💡 Signal of the Day
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=The+goal+of+AI+is+not+to+replace+human+thinking%2C+but+to+enhance+it.&author=Rutvik+Prajapati)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<!-- ╔═══════════════════════╗ -->
+<!--  ░░  CONNECT  ░░        -->
+<!-- ╚═══════════════════════╝ -->
+
+<div align="center">
+
+## 🌐 Establish Neural Link
+
+<a href="https://linkedin.com/in/rutvik50">
+  <img src="https://img.shields.io/badge/LinkedIn-Sync-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a001a"/>
+</a>
+&nbsp;
+<a href="https://github.com/rutvik5o">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a001a"/>
+</a>
+&nbsp;
+<a href="https://x.com/@OzaRutvik50">
+  <img src="https://img.shields.io/badge/X_(Twitter)-Connect-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0a001a"/>
+</a>
+&nbsp;
+<a href="https://quora.com/profile/Rutvik-Prajapati-64">
+  <img src="https://img.shields.io/badge/Quora-Answers-B92B27?style=for-the-badge&logo=quora&logoColor=white&labelColor=0a001a"/>
+</a>
+&nbsp;
+<a href="https://pinterest.com/rutvik50">
+  <img src="https://img.shields.io/badge/Pinterest-Explore-E60023?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=0a001a"/>
+</a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+
+<br/><br/>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  💡 OPEN TO:                                                 ║
+║     ◈ AI / ML Engineering Collaborations                     ║
+║     ◈ Research Projects & Paper Co-authoring                 ║
+║     ◈ Open Source Contributions                              ║
+║     ◈ Freelance AI / Data Science Consulting                 ║
+║     ◈ Hackathons & Innovation Challenges                     ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001a0d,60:000d1a,100:0a001a&height=180&section=footer&text=Let's%20Build%20Intelligent%20Systems%20Together%20🚀&fontSize=22&fontColor=00ffe7&animation=twinkling&fontAlignY=65&desc=⚡%20github.com%2Frutvik5o%20⚡&descAlignY=85&descSize=14&descColor=7fffed" width="100%"/>
+
+</div>
+
+<!-- ══════════════════════════════════════════════════════ -->
+<!--   Crafted with ⚡ neural energy by Rutvik Prajapati    -->
+<!--   AI Engineer · ML Architect · Data Science Enthusiast -->
+<!-- ══════════════════════════════════════════════════════ -->
