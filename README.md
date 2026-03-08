@@ -246,44 +246,60 @@ if __name__ == "__main__":
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--   GITHUB STATS — static SVGs via GitHub Actions → dist branch      -->
+<!--   GITHUB STATS  —  All verified working, no broken plugins          -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
 ## 📊 Mission Control — Stats Dashboard
 
-<!-- ── Streak card (demolab — always works) ── -->
-<img src="https://streak-stats.demolab.com?user=Rutvik5o&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=00ffe7&fire=ff6e00&currStreakLabel=00ffe7&sideLabels=7fffed&dates=7fffed&border_radius=10&date_format=j%20M%5B%20Y%5D" height="175" alt="GitHub Streak"/>
+<!-- ── ROW 1: Two side-by-side cards ── -->
+<img src="https://github-readme-stats.vercel.app/api?username=Rutvik5o&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=00ffe7&icon_color=00ffe7&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=percentile&cache_seconds=14400&border_radius=10" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutvik5o&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=00ffe7&text_color=c9d1d9&langs_count=8&cache_seconds=14400&border_radius=10" height="180"/>
 
 <br/><br/>
 
-<!-- ── Full profile card (habits, isocalendar, activity, repos — all in one) ── -->
-<img src="https://raw.githubusercontent.com/Rutvik5o/Rutvik5o/dist/metrics-full.svg" width="97%" alt="Full GitHub Metrics"/>
+<!-- ── ROW 2: Streak card ── -->
+<img src="https://streak-stats.demolab.com?user=Rutvik5o&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=00ffe7&fire=ff6e00&currStreakLabel=00ffe7&sideLabels=7fffed&dates=7fffed&border_radius=10&date_format=j%20M%5B%20Y%5D" height="175"/>
+
+<br/><br/>
+
+<!-- ── ROW 3: Profile overview + heatmap (Actions-generated, always works) ── -->
+<img src="https://raw.githubusercontent.com/Rutvik5o/Rutvik5o/dist/metrics-overview.svg" width="97%"/>
 
 <br/>
 
-<!-- ── Language breakdown ── -->
-<img src="https://raw.githubusercontent.com/Rutvik5o/Rutvik5o/dist/metrics-languages.svg" width="97%" alt="Language Stats"/>
+<!-- ── ROW 4: Language breakdown (Actions-generated, no indepth) ── -->
+<img src="https://raw.githubusercontent.com/Rutvik5o/Rutvik5o/dist/metrics-languages.svg" width="97%"/>
+
+<br/><br/>
+
+<!-- ── ROW 5: Summary cards — 3 across ── -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rutvik5o&theme=github_dark" width="97%"/>
 
 <br/>
 
-<!-- ── Full-year contribution heatmap ── -->
-<img src="https://raw.githubusercontent.com/Rutvik5o/Rutvik5o/dist/metrics-calendar.svg" width="97%" alt="Full Year Heatmap"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rutvik5o&theme=github_dark" height="165"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rutvik5o&theme=github_dark" height="165"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rutvik5o&theme=github_dark&utcOffset=5.5" height="165"/>
 
 </div>
 
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--       ACHIEVEMENTS — STATIC SVG via GitHub Actions                  -->
+<!--   HALL OF ACHIEVEMENTS — trophies (no broken plugins)               -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
 ## 🏆 Hall of Achievements
 
-<img src="https://raw.githubusercontent.com/Rutvik5o/Rutvik5o/dist/metrics-achievements.svg" width="97%" alt="Achievements"/>
+<!-- Trophy API — simple, no token needed, always works -->
+<img src="https://github-profile-trophy.vercel.app/?username=rutvik5o&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" width="97%"/>
 
 </div>
 
