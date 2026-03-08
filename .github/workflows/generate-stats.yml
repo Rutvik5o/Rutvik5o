@@ -9,27 +9,24 @@ on:
 
 jobs:
   # ═══════════════════════════════════════════════════════════════
-  #  ALL METRICS IN ONE JOB
+  #  CARD 1 — Profile Overview + Full Year Heatmap
+  #  Uses only: base + isocalendar (both confirmed working)
   # ═══════════════════════════════════════════════════════════════
-  generate-metrics:
-    name: Generate All Metrics
+  metrics-overview:
+    name: Profile Overview
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
-
-      # ── CARD 1: Full Profile ─────────────────────────────────
-      - name: 🧠 Full Profile Metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Rutvik5o
-          filename: metrics-full.svg
+          filename: metrics-overview.svg
           output_action: commit
           committer_branch: dist
-          committer_message: "chore: update metrics-full"
+          committer_message: "chore: update metrics-overview"
           template: classic
           config_timezone: Asia/Kolkata
           config_padding: 6%, 10%
@@ -38,16 +35,18 @@ jobs:
           base: header, activity, community, repositories
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
 
-      # ── CARD 2: Languages — NO indepth (fixes hash error) ────
-      - name: 📊 Language Breakdown
-        uses: lowlighter/metrics@latest
+  # ═══════════════════════════════════════════════════════════════
+  #  CARD 2 — Language Stats (no indepth — confirmed working)
+  # ═══════════════════════════════════════════════════════════════
+  metrics-languages:
+    name: Language Stats
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Rutvik5o
@@ -61,8 +60,6 @@ jobs:
           config_display: large
           config_animations: yes
           base: ""
-          # ⚠️ indepth: NO — this was causing the hash mismatch error
-          # it tries to git clone all repos which fails/times out
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
@@ -73,67 +70,23 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_indepth: no
 
-      # ── CARD 3: Achievements ─────────────────────────────────
-      - name: 🏆 Achievements
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: Rutvik5o
-          filename: metrics-achievements.svg
-          output_action: commit
-          committer_branch: dist
-          committer_message: "chore: update metrics-achievements"
-          template: classic
-          config_timezone: Asia/Kolkata
-          config_padding: 6%, 10%
-          config_animations: yes
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_limit: 0
-
-      # ── CARD 4: Full Year Heatmap ────────────────────────────
-      - name: 📅 Full Year Calendar
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: Rutvik5o
-          filename: metrics-calendar.svg
-          output_action: commit
-          committer_branch: dist
-          committer_message: "chore: update metrics-calendar"
-          template: classic
-          config_timezone: Asia/Kolkata
-          config_padding: 6%, 10%
-          config_display: large
-          config_animations: yes
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
   # ═══════════════════════════════════════════════════════════════
   #  SNAKE ANIMATION
   # ═══════════════════════════════════════════════════════════════
   build-snake:
-    name: 🐍 Generate Snake
+    name: 🐍 Snake Animation
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
-
-      - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Rutvik5o
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake to output branch
-        uses: JamesIves/github-pages-deploy-action@v4
+      - uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
           folder: dist
