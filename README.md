@@ -122,7 +122,7 @@ class RutvikPrajapati:
     # ── Identity ────────────────────────────────────────────────────────
     name:      Final[str] = "Rutvik Prajapati"
     role:      Final[str] = "AI Engineer · ML Architect · Data Scientist"
-    institute: Final[str] = "AIDTM — Ahmedabad Institute of Digital Technology Management"
+    institute: Final[str] = "AIDTM — Adani Institute of Digital Technology Management"
     location:  Final[str] = "Ahmedabad, India 🇮🇳"
 
     # ── Arsenal ─────────────────────────────────────────────────────────
