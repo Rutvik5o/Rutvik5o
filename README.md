@@ -42,15 +42,15 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=rutvik5o&style=for-the-badge&color=00ffe7&labelColor=030012&label=👁+VISITORS)
+![](https://komarev.com/ghpvc/?username=rutvik5o&style=for-the-badge&color=000000&labelColor=00ffe7&label=👁+VISITORS)
 &nbsp;
-![](https://img.shields.io/github/followers/rutvik5o?style=for-the-badge&logo=github&logoColor=white&labelColor=030012&color=00ffe7&label=⭐+FOLLOWERS)
+![](https://img.shields.io/github/followers/rutvik5o?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff&color=000000&label=⭐+FOLLOWERS)
 &nbsp;
-![](https://img.shields.io/badge/🏫-AIDTM-00ffe7?style=for-the-badge&labelColor=030012)
+![](https://img.shields.io/badge/🏫_AIDTM-Ahmedabad-ffffff?style=for-the-badge&labelColor=7000ff)
 &nbsp;
-![](https://img.shields.io/badge/📍-India-ff6e00?style=for-the-badge&labelColor=030012)
+![](https://img.shields.io/badge/📍_INDIA-Ahmedabad-ffffff?style=for-the-badge&labelColor=ff6e00)
 &nbsp;
-![](https://img.shields.io/badge/STATUS-BUILDING%20AI-00ffe7?style=for-the-badge&labelColor=030012)
+![](https://img.shields.io/badge/⚡_STATUS-BUILDING%20AI-000000?style=for-the-badge&labelColor=00ff88)
 
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="760"/>
@@ -122,7 +122,7 @@ class RutvikPrajapati:
     # ── Identity ────────────────────────────────────────────────────────
     name:      Final[str] = "Rutvik Prajapati"
     role:      Final[str] = "AI Engineer · ML Architect · Data Scientist"
-    institute: Final[str] = "AIDTM — Adani Institute of Digital Technology Management"
+    institute: Final[str] = "AIDTM — Ahmedabad Institute of Digital Technology Management"
     location:  Final[str] = "Ahmedabad, India 🇮🇳"
 
     # ── Arsenal ─────────────────────────────────────────────────────────
