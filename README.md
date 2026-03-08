@@ -53,7 +53,7 @@
 ![](https://img.shields.io/badge/⚡_STATUS-BUILDING%20AI-000000?style=for-the-badge&labelColor=00ff88)
 
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="760"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="760"/>
 
 </div>
 
@@ -271,7 +271,7 @@ if __name__ == "__main__":
 <br/><br/>
 
 <!-- ── STREAK — demolab (most reliable, always loads) ── -->
-<img src="https://streak-stats.demolab.com?user=Rutvik5o&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=00ffe7&fire=ff6e00&currStreakLabel=00ffe7&sideLabels=7fffed&dates=7fffed&border_radius=10" width="97%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Rutvik5o&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=00ffe7&fire=ff6e00&currStreakLabel=00ffe7&sideLabels=7fffed&dates=7fffed&border_radius=10&date_format=j%20M%5B%20Y%5D&stroke=00ffe730" height="195" alt="GitHub Streak"/>
 
 </div>
 
@@ -527,7 +527,7 @@ def build_intelligence(raw_data: pd.DataFrame) -> dict:
 </a>
 
 <br/><br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700"/>
 <br/><br/>
 
 ```
